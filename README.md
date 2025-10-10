@@ -1,4 +1,4 @@
-# 〘 ARSLAN-MD 〙  
+# 〘 𝙵𝙰𝚉𝙸-𝙼𝙳 〙  
 > ✨ *Ultra Pro Max WhatsApp Bot* ✨  
 
 ## Folders:  
@@ -7,9 +7,9 @@
 - 🗃️ `database` - User data
 
 
-🤖 ***Arslan-MD*** - MULTIPLE POWERFUL WHATSAPP BOT
+🤖 ***𝙵𝙰𝚉𝙸-𝙼𝙳*** - MULTIPLE POWERFUL WHATSAPP BOT
 
-> ⚔️ Developed by ArslanMD Official | 100+ Features | Super Aggressive Bot
+> ⚔️ Developed by FAZI-MD Official | 100+ Features | Super Aggressive Bot
 </div>
 
 <p align="center">
@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/bxqan2.png" />
+  <img src="https://files.catbox.moe/f7y3rn.jpg" />
 </p>
 
 <!-- 📊 STATS & HERO ANIMATION (Updated Colors) -->
@@ -39,7 +39,7 @@
 
 </div>
 
-# Arslan-MD Setup
+# 𝙵𝙰𝚉𝙸-𝙼𝙳 Setup
 
 ### 🚀 Fork the Repository
 
@@ -59,11 +59,11 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 > 🔵 QR Code Authentication
 
-[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://arslanmd-bot-pairing.onrender.com/)
+[![Scan QR Code](https://img.shields.io/badge/Scan%20QR%20Code-000000?style=for-the-badge&logo=react&logoColor=white)](https://faizan-md-session-generator.onrender.com)
 
 > ♥️ Pairing Code Authentication
 
-[![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red)](https://arslan-md-pair-site.onrender.com/)
+[![Pairing Code](https://img.shields.io/badge/Pairing%20Code-000000?style=for-the-badge&logo=react&logoColor=red)](https://faizan-md-session-generator.onrender.com)
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" width="65%" />
@@ -184,9 +184,9 @@ jobs:
 
 ---
 
-🚀 What is Arslan-MD?
+🚀 What is Fazi-MD?
 
-Arslan-MD is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
+𝙵𝙰𝚉𝙸-𝙼𝙳 is a fully advanced, aggressive, and ultra customizable WhatsApp bot powered by Baileys MD. Designed for both personal use and public deployment, this bot includes more than 100+ commands, including:
 
 ✅ AI Chatbots (GPT-4, Gemini, Meta, Copilot)
 
@@ -225,7 +225,7 @@ Platform	Status
 
 ## ⚠️ Disclaimer
 
-- ❗ Arslan-MD is **not affiliated with WhatsApp Inc.**
+- ❗ 𝙵𝙰𝚉𝙸-𝙼𝙳 is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse can lead to bans. Use at your own risk.
 - 🛑 Cloning or modifying without proper credit is prohibited.
 
@@ -257,7 +257,7 @@ Platform	Status
 > Never miss updates, feature drops, or guides!
 
 - 📢 **WhatsApp Channel**  
-  [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306)
+  [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g)
 
 - ▶️ **YouTube: ArslanMD Official**  
   [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arslanmdofficial)
