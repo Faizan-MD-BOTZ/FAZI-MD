@@ -233,7 +233,7 @@ Platform	Status
 
 ## 💡 Credits & Contributors
 
-> Made with ❤️ by Arslan-MD 
+> Made with ❤️ by 𝙵𝙰𝚉𝙸-𝙼𝙳 
 
 - 👤 [ArslanMD Official](https://github.com/Arslan-MD) – Creator & Maintainer  
   - Optimized scripts, plugin management, core features
@@ -259,7 +259,7 @@ Platform	Status
 - 📢 **WhatsApp Channel**  
   [![Join WhatsApp](https://img.shields.io/badge/Join%20WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBdQyRBPzjUMvx8Fb2g)
 
-- ▶️ **YouTube: ArslanMD Official**  
+- ▶️ **YouTube: Faizi Official**  
   [![Subscribe YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@arslanmdofficial)
 
 
