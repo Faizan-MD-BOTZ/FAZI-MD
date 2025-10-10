@@ -3,8 +3,8 @@ const fs = require("fs");
 const crypto = require("crypto");
 
 // 🔐 Anti-Tamper & Clone Protection
-const botName = "Arslan-MD";
-const ownerNumber = "923237045919";
+const botName = "FAZI-MD";
+const ownerNumber = "923266105873";
 const securityHash = "a1b2c3d4e5f6g7h8i9j0"; // Change this to your unique hash
 
 // 🚨 Security Check
@@ -33,14 +33,14 @@ if (__filename.includes('node_modules') === false) {
 // ⚡ ULTRA PRO MAX SETTINGS
 const settings = {
   // 🌟 Branding & Identity
-  botName: "Arslan-Ai",
-  packname: "Arslan-Ai Premium Pack",
-  author: "ArslanMD Official",
+  botName: "FAZI-MD",
+  packname: "FAZI-MD-Ai Premium Pack",
+  author: "FAZI-MD",
   version: "3.0.0", // Major version upgrade
   
   // 👑 Ownership
-  botOwner: "ArslanMD",
-  ownerNumber: "923237045919",
+  botOwner: "FAZI-MD",
+  ownerNumber: "923266105873",
   coOwners: [], // Add secondary owners if needed
   
   // ⚙️ Operation Modes
@@ -56,7 +56,7 @@ const settings = {
   
   autoReply: {
     status: true,
-    message: "🤖 Arslan-MD is currently busy. I'll reply soon!"
+    message: "🤖 FAZI-MD is currently busy. I'll reply soon!"
   },
   
   // 🔐 Security
@@ -82,7 +82,7 @@ const settings = {
   
   // 🌍 Metadata
   description: "⚡ The Most Advanced WhatsApp Bot with ULTRA PRO MAX Features",
-  website: "https://arslan-md.com",
+  website: "",
   ytchannel: "https://youtube.com/@arslanmdofficial",
   repo: "https://github.com/Arslan-MD/Arslan-Ai",
   
