@@ -85,7 +85,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
   <table cellspacing="20">
     <tr>
       <td align="center">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/Arslan-MD/Arslan-MD" target="_blank">
+        <a href="https://dashboard.heroku.com/apps/fazi-md/deploy/github" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
         </a>
       </td>
