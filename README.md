@@ -45,7 +45,7 @@
 
 To start, fork this repository to your own GitHub account by clicking the button below:
 
-<a href="https://github.com/Faizanjuto/FAZI-MD"><img src="https://img.shields.io/github/forks/Arslan-MD/Arslan-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20Arslan-MD" alt="Fork Arslan-MD" /></a>
+<a href="https://github.com/Faizanjuto/FAZI-MD/forks"><img src="https://img.shields.io/github/forks/Arslan-MD/Arslan-MD?style=for-the-badge&logo=github&color=4c1&label=Fork%20FAZI-MD" alt="Fork FAZI-MD" /></a>
 
 ---
 
