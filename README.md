@@ -76,7 +76,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 
 
 <div align="center">
-  <img src="https://github.com/Arslan-MD/Arslan-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
+  <img src="https://github.com/FAZI-MD/FAZI-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 
 <h2 align="center">🚀 Deployment Options</h2>
@@ -85,7 +85,7 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
   <table cellspacing="20">
     <tr>
       <td align="center">
-        <a href="https://dashboard.heroku.com/apps/fazi-md/deploy/github" target="_blank">
+        <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FArslan-MD%2FFAZI-MD" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
         </a>
       </td>
