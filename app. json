@@ -53,4 +53,19 @@
       "value": "false"
     },
     "BOT_NAME": {
-      "description": "
+      "description": "Name of your bot",
+      "required": false,
+      "value": "FAZI-MD"
+    },
+    "OWNER_NAME": {
+      "description": "Name of bot owner",
+      "required": false,
+      "value": "Faizan Jutt"
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
