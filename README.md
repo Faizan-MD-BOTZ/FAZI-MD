@@ -88,13 +88,16 @@ Authenticate using **one** of the methods below to generate your `Session ID`.
 </div>
 
 <h2 align="center">🚀 Deployment Options</h2>
+## 🚀 𝘿𝙀𝙋𝙇𝙊𝙔 𝙉𝙊𝙒
+<p align="center">
+  <a href="https://github.com/Faizan-MD-BOTZ/FAZI-MD">
+    <img src="https://img.shields.io/badge/Deploy-Heroku-7952B3?style=for-the-badge&logo=heroku&logoColor=white" />
+  </a>
+</p>
+<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>
+</p>
+<p align="center">⚡ Deploy your bot on <b>Heroku</b> easily.</p>
 
-<div align="center">
-  <table cellspacing="20">
-    <tr>
-      <td align="center">
-        <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FArslan-MD%2FFAZI-MD" target="_blank">
-          <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
         </a>
       </td>
       <td align="center">
