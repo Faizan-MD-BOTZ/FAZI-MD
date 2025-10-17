@@ -16,11 +16,41 @@
     "MONGODB_URI": {
       "description": "Your MongoDB connection string (if required)",
       "required": false
-    }
-  },
-  "buildpacks": [
-    {
-      "url": "heroku/nodejs"
-    }
-  ]
-}
+    },
+    "PREFIX": {
+      "description": "Bot command prefix (e.g. . or ! or /)",
+      "required": false,
+      "value": "."
+    },
+    "MODE": {
+      "description": "Bot mode: public or private",
+      "required": false,
+      "value": "public"
+    },
+    "PACKNAME": {
+      "description": "Sticker pack name",
+      "required": false,
+      "value": "FAZI-MD"
+    },
+    "AUTHOR": {
+      "description": "Sticker author name",
+      "required": false,
+      "value": "Faizan Jutt"
+    },
+    "AUTO_READ": {
+      "description": "Set to true if you want bot to auto read messages",
+      "required": false,
+      "value": "false"
+    },
+    "ANTILINK": {
+      "description": "Set to true to enable anti-link system",
+      "required": false,
+      "value": "false"
+    },
+    "AUTO_TYPING": {
+      "description": "Show bot typing automatically (true/false)",
+      "required": false,
+      "value": "false"
+    },
+    "BOT_NAME": {
+      "description": "
