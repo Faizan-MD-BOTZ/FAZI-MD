@@ -4,7 +4,7 @@
   "logo": "https://i.ibb.co/9mdHyGDL/shaban-md.jpg",
   "keywords": ["FAIZAN-AI"],
   "success_url": "/",
-  "stack": "container",
+  "stack": "heroku-24",
   "env": {
     "SESSION_ID": { "description": "Put the session-id here.", "required": true, "value": "" },
     "STICKER_NAME": { "description": "Type your sticker pack name.", "required": false, "value": "FAIZAN-AI" },
@@ -37,12 +37,10 @@
     "ADMIN_EVENTS": { "description": "Notify when members promoted/demoted.", "required": false, "value": "true" },
     "WELCOME": { "description": "Enable group welcome/goodbye messages.", "required": false, "value": "true" },
     "READ_MESSAGE": { "description": "Automatically read all messages.", "required": false, "value": "true" },
-
     "VOICE_REPLY": { "description": "Reply to voice messages automatically.", "required": false, "value": "true" },
     "MEDIA_DOWNLOAD": { "description": "Enable auto media download (images/videos/stickers).", "required": false, "value": "true" },
     "FORWARD_MSG": { "description": "Enable message forwarding to owner.", "required": false, "value": "true" },
     "SCHEDULED_MSG": { "description": "Enable scheduled messages feature.", "required": false, "value": "true" },
-    
     "AUTO_REACT_MEDIA": { "description": "Automatically react to media messages (images/videos/stickers).", "required": false, "value": "true" },
     "CUSTOM_WELCOME_MSG": { "description": "Custom message for group welcome.", "required": false, "value": "Welcome to the group! 🎉" },
     "CUSTOM_GOODBYE_MSG": { "description": "Custom message for group goodbye.", "required": false, "value": "Goodbye! 👋" },
@@ -54,6 +52,5 @@
   },
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs.git" }
-  ],
-  "stack": "heroku-24"
+  ]
 }
