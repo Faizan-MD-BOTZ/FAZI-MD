@@ -1,3 +1,13 @@
+## Live Pakistani Time
+<script>
+  const options = { timeZone: 'Asia/Karachi', hour12: true, hour: '2-digit', minute: '2-digit' };
+  const currentTime = new Date().toLocaleTimeString('en-PK', options);
+  document.write(`Current Time: ${currentTime}`);
+</script>
+
+
+
+
 # 〘 𝙵𝙰𝚉𝙸-𝙼𝙳 〙  
 > ✨ *Ultra Pro Max WhatsApp Bot* ✨  
 <a href="https://github.com/FAZI-MD"><img title="Author" src="https://img.shields.io/badge/FAZI-MD-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@arslanmdofficial"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/923266105873"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
